@@ -16109,14 +16109,14 @@
       ]
     },
     "Microsoft.NETCore.UniversalWindowsPlatform/5.2.2": {
-      "sha512": "9UHv2YObWmcF8gqtBoDC4UW5gdHzFRtaZ5KtB9QKvCy+NC9LH1DMYyOI/ltupjVZlwYEulj3msjBXys9/QI6nw==",
+      "sha512": "eHccUiYTkiY8xeixRA0DV9mcFpi9GA9UzKt3v0d6NtNGrGefhmqwnb60PSWQPe49tXbxZaP0x+W0ghvj6hflHg==",
       "type": "package",
       "path": "microsoft.netcore.universalwindowsplatform/5.2.2",
       "files": [
+        "Microsoft.NETCore.UniversalWindowsPlatform.5.2.2.nupkg.sha512",
+        "Microsoft.NETCore.UniversalWindowsPlatform.nuspec",
         "ThirdPartyNotices.txt",
-        "dotnet_library_license.txt",
-        "microsoft.netcore.universalwindowsplatform.5.2.2.nupkg.sha512",
-        "microsoft.netcore.universalwindowsplatform.nuspec"
+        "dotnet_library_license.txt"
       ]
     },
     "Microsoft.NETCore.Windows.ApiSets/1.0.1": {
@@ -22270,20 +22270,25 @@
     "UAP,Version=v10.0.10586": []
   },
   "packageFolders": {
-    "C:\\Users\\manb\\.nuget\\packages\\": {}
+    "C:\\Users\\manb\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "c:\\users\\manb\\Source\\Repos\\DevDayDemo\\DevDayDemo\\DevDayDemo.UWP\\DevDayDemo.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\manb\\Documents\\GitHub\\DevDayRepo\\DevDayDemo\\DevDayDemo.UWP\\DevDayDemo.UWP.csproj",
       "projectName": "DevDayDemo.UWP",
-      "projectPath": "c:\\users\\manb\\Source\\Repos\\DevDayDemo\\DevDayDemo\\DevDayDemo.UWP\\DevDayDemo.UWP.csproj",
-      "projectJsonPath": "c:\\users\\manb\\Source\\Repos\\DevDayDemo\\DevDayDemo\\DevDayDemo.UWP\\project.json",
+      "projectPath": "C:\\Users\\manb\\Documents\\GitHub\\DevDayRepo\\DevDayDemo\\DevDayDemo.UWP\\DevDayDemo.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\manb\\Documents\\GitHub\\DevDayRepo\\DevDayDemo\\DevDayDemo.UWP\\project.json",
       "packagesPath": "C:\\Users\\manb\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\manb\\Source\\Repos\\DevDayDemo\\DevDayDemo\\DevDayDemo.UWP\\obj\\",
+      "outputPath": "C:\\Users\\manb\\Documents\\GitHub\\DevDayRepo\\DevDayDemo\\DevDayDemo.UWP\\obj\\",
       "projectStyle": "ProjectJson",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
+      ],
       "configFilePaths": [
         "C:\\Users\\manb\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -22291,8 +22296,8 @@
       }
     },
     "dependencies": {
-      "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.2",
-      "Xamarin.Forms": "2.4.0.280"
+      "Microsoft.NETCore.UniversalWindowsPlatform": "[5.2.2, )",
+      "Xamarin.Forms": "[2.4.0.280, )"
     },
     "frameworks": {
       "uap10.0.10586": {}

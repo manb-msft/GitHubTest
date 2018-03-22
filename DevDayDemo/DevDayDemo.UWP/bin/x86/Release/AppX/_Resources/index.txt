@@ -1,3 +1,0 @@
-DevDayDemo.UWP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  DevDayDemo.UWP.MainPage.xaml
-  DevDayDemo.UWP.App.xaml

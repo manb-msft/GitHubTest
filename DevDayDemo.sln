@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2010
+VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "DevDayDemo", "DevDayDemo\DevDayDemo\DevDayDemo.shproj", "{607E07BD-552A-44E8-87FB-0F32DED346B4}"
 EndProject
@@ -13,6 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevDayDemo.UWP", "DevDayDem
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		DevDayDemo\DevDayDemo\DevDayDemo.projitems*{0d639e7f-093d-4f63-aea5-7803fe1436d3}*SharedItemsImports = 4
 		DevDayDemo\DevDayDemo\DevDayDemo.projitems*{49806872-9860-4dd1-8362-4b52105a40df}*SharedItemsImports = 4
 		DevDayDemo\DevDayDemo\DevDayDemo.projitems*{607e07bd-552a-44e8-87fb-0f32ded346b4}*SharedItemsImports = 13
 		DevDayDemo\DevDayDemo\DevDayDemo.projitems*{d5b5434a-1b78-4ee5-9da9-09527bd21539}*SharedItemsImports = 4

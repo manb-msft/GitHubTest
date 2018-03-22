@@ -135,9 +135,12 @@
     <None Include="Properties\AndroidManifest.xml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="mclogo.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <AndroidAsset Include="Assets\mclogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="mclogo.png" />
+    <AndroidResource Include="Resources\mclogo.png" />
+    <AndroidResource Include="Resources\Drawable\mclogo.png" />
   </ItemGroup>
   <Import Project="..\DevDayDemo\DevDayDemo.projitems" Label="Shared" Condition="Exists('..\DevDayDemo\DevDayDemo.projitems')" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />

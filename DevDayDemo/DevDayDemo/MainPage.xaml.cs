@@ -5,6 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
+//using Microsoft.AppCenter;
+//using Microsoft.AppCenter.Analytics;
+//using Microsoft.AppCenter.Crashes;
+
 namespace DevDayDemo
 {
 	public partial class MainPage : ContentPage
@@ -32,24 +36,25 @@ namespace DevDayDemo
         async void Color_Clicked(object sender, EventArgs e)
         {
             var color = await DisplayActionSheet("Send event with color property", null, null, "Yellow", "Blue", "Red");
-           /* if (color.Equals("Yellow"))
-            {
-                Analytics.TrackEvent("Color event", new Dictionary<string, string> {
-                    { "Color", "Yellow" }
-                });
-            }
-            else if (color.Equals("Blue"))
-            {
-                Analytics.TrackEvent("Color event", new Dictionary<string, string> {
-                    { "Color", "Blue" }
-                });
-            }
-            else if (color.Equals("Red"))
-            {
-                Analytics.TrackEvent("Color event", new Dictionary<string, string> {
-                    { "Color", "Red" }
-                });
-            } */
+
+            //if (color.Equals("Yellow"))
+            //{
+            //    Analytics.TrackEvent("Color event", new Dictionary<string, string> {
+            //        { "Color", "Yellow" }
+            //    });
+            //}
+            //else if (color.Equals("Blue"))
+            //{
+            //    Analytics.TrackEvent("Color event", new Dictionary<string, string> {
+            //        { "Color", "Blue" }
+            //    });
+            //}
+            //else if (color.Equals("Red"))
+            //{
+            //    Analytics.TrackEvent("Color event", new Dictionary<string, string> {
+            //        { "Color", "Red" }
+            //    });
+            //}
         }
     }
 }

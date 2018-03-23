@@ -1,5 +1,10 @@
 /.vs
 /DevDayDemo/DevDayDemo.Android/obj/Release
+/DevDayDemo/DevDayDemo.Android/obj/Debug
 /DevDayDemo/DevDayDemo.UWP/obj/x86/Release
 /DevDayDemo/DevDayDemo.iOS/obj/iPhoneSimulator/Debug
+/DevDayDemo/DevDayDemo.iOS/obj/iPhoneSimulator/Release
 /DevDayDemo/DevDayDemo.UWP/obj/x86/Debug
+/DevDayDemo/DevDayDemo.Android/bin/Release
+/DevDayDemo/DevDayDemo.Android/bin/Debug
+/UITestXam/obj/Debug

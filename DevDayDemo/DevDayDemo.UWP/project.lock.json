@@ -24329,10 +24329,7 @@
       "Microsoft.AppCenter.Analytics": "[1.5.0, )",
       "Microsoft.AppCenter.Crashes": "[1.5.0, )",
       "Microsoft.AppCenter.Distribute": "[1.5.0, )",
-      "Microsoft.AppCenter.Push": {
-        "target": "Package",
-        "version": "[1.5.0, )"
-      },
+      "Microsoft.AppCenter.Push": "[1.5.0, )",
       "Microsoft.NETCore.UniversalWindowsPlatform": "[5.2.2, )",
       "Xamarin.Forms": "[2.4.0.280, )"
     },

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>MANI-LPTP</Machine>
-    <WindowsUser>manb</WindowsUser>
+    <Machine>XTREMEGIG</Machine>
+    <WindowsUser>manig</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>f736c883-f105-4d30-a719-4bf328872f5e</PackageIdentityName>
     <PackageIdentityPublisher>CN=manb</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\obj\x86\Release\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\obj\x86\Release\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\AppX</LayoutDir>
-    <RegisteredManifestChecksum>E28B8BA93A8C9DC84C00C9911F09AD985214E7CA4537DF908FCD0C23BFD88D66</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>62BB6CEECE43F0BD87D6AA68F807906D7D6008CD56E616D655C89638E4255502</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>c30fd257-4e13-4059-9812-72851b1ab843_1.0.0.0_x86__wm5ef4tp8sr32</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>c30fd257-4e13-4059-9812-72851b1ab843_wm5ef4tp8sr32!App</RegisteredUserModeAppID>
     <RegisteredPackageID>c30fd257-4e13-4059-9812-72851b1ab843</RegisteredPackageID>
@@ -28,211 +28,223 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T15:34:49.833</Modified>
+      <Modified>2018-03-23T11:02:57.737</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-100.png">
       <PackagePath>Assets\LockScreenLogo.scale-100.png</PackagePath>
-      <Modified>2018-03-21T15:28:22.696</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-125.png">
       <PackagePath>Assets\LockScreenLogo.scale-125.png</PackagePath>
-      <Modified>2018-03-21T15:28:22.696</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-150.png">
       <PackagePath>Assets\LockScreenLogo.scale-150.png</PackagePath>
-      <Modified>2018-03-21T15:28:22.696</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2018-03-21T15:28:22.696</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-400.png">
       <PackagePath>Assets\LockScreenLogo.scale-400.png</PackagePath>
-      <Modified>2018-03-21T15:28:22.696</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\mclogo.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\mclogo.png">
       <PackagePath>Assets\mclogo.png</PackagePath>
-      <Modified>2018-03-21T15:28:22.743</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\mclogo%402x.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\mclogo%402x.png">
       <PackagePath>Assets\mclogo%402x.png</PackagePath>
-      <Modified>2018-03-21T15:28:22.743</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\mclogo%403x.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\mclogo%403x.png">
       <PackagePath>Assets\mclogo%403x.png</PackagePath>
-      <Modified>2018-03-21T15:28:22.759</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\splash.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\splash.png">
       <PackagePath>Assets\splash.png</PackagePath>
-      <Modified>2018-03-21T15:28:22.759</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\splash%402x.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\splash%402x.png">
       <PackagePath>Assets\splash%402x.png</PackagePath>
-      <Modified>2018-03-21T15:28:22.759</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\splash%403x.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\splash%403x.png">
       <PackagePath>Assets\splash%403x.png</PackagePath>
-      <Modified>2018-03-21T15:28:22.759</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T15:28:22.696</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T15:28:22.712</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T15:28:22.712</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T15:28:22.712</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T15:28:22.712</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T15:28:22.712</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T15:28:22.712</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-125.png">
       <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T15:28:22.712</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-150.png">
       <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T15:28:22.712</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T15:28:22.727</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T15:28:22.727</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T15:28:22.727</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T15:28:22.727</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T15:28:22.727</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T15:28:22.727</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T15:28:22.727</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T15:28:22.727</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T15:28:22.743</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-125.png">
       <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T15:28:22.743</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-150.png">
       <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T15:28:22.743</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T15:28:22.743</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T15:28:22.743</Modified>
+      <Modified>2018-03-23T05:28:49.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\clrcompression.dll">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
       <Modified>2016-06-13T16:21:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\DevDayDemo.UWP.dll">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\DevDayDemo.UWP.dll">
       <PackagePath>DevDayDemo.UWP.dll</PackagePath>
-      <Modified>2018-03-21T15:34:48.880</Modified>
+      <Modified>2018-03-23T11:02:56.318</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\DevDayDemo.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\DevDayDemo.UWP.exe">
       <PackagePath>DevDayDemo.UWP.exe</PackagePath>
-      <Modified>2018-03-21T15:34:49.787</Modified>
+      <Modified>2018-03-23T11:02:57.687</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\DevDayDemo.UWP.pdb">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\DevDayDemo.UWP.pdb">
       <PackagePath>DevDayDemo.UWP.pdb</PackagePath>
-      <Modified>2018-03-21T15:34:49.771</Modified>
+      <Modified>2018-03-23T11:02:57.660</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\icon.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\e_sqlite3.dll">
+      <PackagePath>e_sqlite3.dll</PackagePath>
+      <Modified>2017-01-04T04:25:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\icon.png">
       <PackagePath>icon.png</PackagePath>
-      <Modified>2018-03-21T15:28:23.337</Modified>
+      <Modified>2018-03-23T05:28:50.332</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\mclogo.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\mclogo.png">
       <PackagePath>mclogo.png</PackagePath>
-      <Modified>2018-03-21T15:28:23.337</Modified>
+      <Modified>2018-03-23T05:28:50.332</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\resources.pri">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-21T15:33:22.355</Modified>
+      <Modified>2018-03-23T10:55:51.929</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\splash.png">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\splash.png">
       <PackagePath>splash.png</PackagePath>
-      <Modified>2018-03-21T15:28:23.368</Modified>
+      <Modified>2018-03-23T05:28:50.356</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\_Resources\0.rsrc">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\WatsonRegistrationUtility.dll">
+      <PackagePath>WatsonRegistrationUtility.dll</PackagePath>
+      <Modified>2018-02-27T19:11:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\WatsonRegistrationUtility.winmd">
+      <PackagePath>WatsonRegistrationUtility.winmd</PackagePath>
+      <Modified>2018-02-27T19:11:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\_Resources\0.rsrc">
       <PackagePath>_Resources\0.rsrc</PackagePath>
-      <Modified>2018-03-21T15:34:04.735</Modified>
+      <Modified>2018-03-23T11:02:20.982</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\_Resources\1.rsrc">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\_Resources\1.rsrc">
       <PackagePath>_Resources\1.rsrc</PackagePath>
-      <Modified>2018-03-21T15:34:04.751</Modified>
+      <Modified>2018-03-23T11:02:20.983</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\manb\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\_Resources\index.txt">
+    <AppxPackagedFile Include="C:\Users\manig\OneDrive\Documents\GitHub\DevDayRepo\DevDayDemo\DevDayDemo.UWP\bin\x86\Release\ilc\_Resources\index.txt">
       <PackagePath>_Resources\index.txt</PackagePath>
-      <Modified>2018-03-21T15:34:04.751</Modified>
+      <Modified>2018-03-23T11:02:20.983</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

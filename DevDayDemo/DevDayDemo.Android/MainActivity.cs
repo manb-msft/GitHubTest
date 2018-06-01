@@ -21,7 +21,7 @@ namespace DevDayDemo.Droid
 
 			global::Xamarin.Forms.Forms.Init (this, bundle);
 			LoadApplication (new DevDayDemo.App ());
-		}//
+		}////
 	}
 }
 
